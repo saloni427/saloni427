@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, React, Android**
 
-- 💬 Ask me about **Python, PHP, Java**
+- 💬 Ask me about **Python, C, C++**
 
 - 📫 How to reach me **deshmukhsaloni01@gmail.com**
 
