@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__saloni__4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saloni__4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saloni-deshmukh-337053210/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
